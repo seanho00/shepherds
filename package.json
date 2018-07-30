@@ -1,18 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/shepherds",
+  "repository": "sermons/shepherds",
+  "description": "Ez34 The Shepherds",
   "keywords": [
     "slides",
-    "lectures",
-    "talks",
-    "ppt"
+    "sermons",
+    "ezekiel"
   ],
   "version": "1.6.26",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "shepherds.seanho.com",
+    "cname": "shepherds.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -23,14 +22,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2018-08-04",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",

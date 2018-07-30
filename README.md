@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# The Shepherds (2/5)
+## Ezekiel 34
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/shepherds.svg)](https://travis-ci.org/sermons/shepherds)
+[![Node deps](https://david-dm.org/sermons/shepherds.svg)](https://david-dm.org/sermons/shepherds)
+[![Node devDeps](https://david-dm.org/sermons/shepherds/dev-status.svg)](https://david-dm.org/sermons/shepherds?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
