@@ -2,6 +2,9 @@
 # The Shepherds
 ## Ezekiel 34 (2/5)
 
+>>>
+22b leaders, Jn10
+
 ---
 <!-- .slide: data-background="white" -->
 # **Who** will help me change?
