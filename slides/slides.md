@@ -28,24 +28,160 @@
 1. Sheep Who **Push** Aside the Weak [(v16-22)](# "ref")
 1. Sheep Who **Know** the Shepherd [(v23-31)](# "ref")
 
+---
+Ah, **shepherds** of Israel <br>
+who have been feeding **yourselves**! <br>
+Should not shepherds feed the **sheep**?
+
+[3](# "ref")
+You eat the **fat**, <br>
+you clothe yourselves with the **wool**, <br>
+you **slaughter** the fat ones, <br>
+but you do not **feed** the sheep.
+
+[Ezekiel 34:2-3 (ESV)](# "ref")
+
 >>>
-1. wicked shepherds:
-  + 2-3 feed self
-  + 4 omission
-  + 5-6 scattered
-2. God's action:
-  + 10 take back from shepherds,
-  + 11-13a seek, bring back
-  + 13b-15 pasture / rest
-3. God's judgment:
-  + 17-19 muddy waters
-  + 21 push aside
-  + 16 feed w/judgment
-  + 22 judge between sheep
-4. One Shepherd
-  + 23-24 David
-  + 30 then they will know
-  + you are men, I am your God
++ luxury/comfort
++ neglect duty
+
+---
+The **weak** you have not strengthened, <br>
+the **sick** you have not healed, <br>
+the **injured** you have not bound up,
+
+the **strayed** you have not brought back, <br>
+the **lost** you have not sought, <br>
+and with **force** and harshness you have ruled them.
+
+[Ezekiel 34:4 (ESV)](# "ref")
+
+>>>
++ omission
++ comission: force/rule
+
+---
+My sheep were **scattered** over <br>
+all the face of the earth, <br>
+with none to **search** or seek for them.
+
+[Ezekiel 34:6 (ESV)](# "ref")
+
+---
+# outline 2
+
+>>>
+God takes action
+
+---
+Behold, I am **against** the shepherds, <br>
+and I will **require** my sheep at their hand <br>
+and put a **stop** to their feeding the sheep.
+
+[Ezekiel 34:10 (ESV)](# "ref")
+
+>>>
++ opposition
++ remove role/right
++ cf vineyard tenants
+
+---
+Behold, I, **I myself** will search for my sheep <br>
+and will **seek** them out....
+
+I will **rescue** them from all places <br>
+where they have been scattered <br>
+on a day of clouds and thick darkness.
+
+[Ezekiel 34:11,12 (ESV)](# "ref")
+
+---
+I will seek the **lost**, <br>
+and I will bring back the **strayed**, <br>
+and I will bind up the **injured**, <br>
+and I will strengthen the **weak**
+
+[Ezekiel 34:16a (ESV)](# "ref")
+
+---
+# outline 3
+
+>>>
+God's judgment
+
+---
+... I will strengthen the **weak**, <br>
+and the **fat** and the strong I will destroy.
+
+I will **feed** them in **justice**.
+
+[17](# "ref")
+... Behold, I **judge** between **sheep** and sheep, <br>
+between rams and male goats.
+
+[Ezekiel 34:16b,17 (ESV)](# "ref")
+
+>>>
+not all sheep are the same
+
+---
+Is it not enough for you <br>
+to feed on the **good** pasture,
+
+that you must **tread** down with your feet <br>
+the rest of your pasture?
+
+and to drink of **clear** water, <br>
+that you must **muddy** the rest of the water <br>
+with your feet?
+
+[Ezekiel 34:18 (ESV)](# "ref")
+
+>>>
+
+---
+You push with side and **shoulder**, <br>
+and thrust at all the weak with your **horns**, <br>
+till you have **scattered** them abroad
+
+[Ezekiel 34:21 (ESV)](# "ref")
+
+---
+# outline 4
+
+---
+I will set up over them **one shepherd**, <br>
+my servant **David**, and he shall feed them: <br>
+he shall **feed** them and be their **shepherd**.
+
+[Ezekiel 34:23 (ESV)](# "ref")
+
+>>>
+Christ, Son of David
+
+---
+And they shall **know** <br>
+that I am the **LORD their God** with them
+
+[Ezekiel 34:30 (ESV)](# "ref")
+
+>>>
+recurring theme in Ez
+
+---
+"As for you, **My sheep**, <br>
+the sheep of My pasture,
+
+you are **men**, <br>
+and I am your **God**,”
+
+declares the Lord GOD.
+
+[Ezekiel 34:31 (NASB)](# "ref")
+
+>>>
++ identity
++ relationship
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
