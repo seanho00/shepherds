@@ -61,11 +61,15 @@ and with **force** and harshness you have ruled them.
 + comission: force/rule
 
 ---
-My sheep were **scattered** over <br>
-all the face of the earth, <br>
+My sheep were **scattered** <br>
+over all the face of the earth, <br>
 with none to **search** or seek for them.
 
 [Ezekiel 34:6 (ESV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+## Who are the **weak**, sick, injured, **strays**, or lost I have neglected?
 
 ---
 # outline 2
