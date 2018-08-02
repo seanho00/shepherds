@@ -21,7 +21,7 @@
 | 5. What if **others** won't change? [(missions)](# "ref") | The *Watchman* [(ch33)](# "ref") |
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## The Shepherds [(Ez34)](# "ref")
 1. Shepherds Who **Eat** the Flock [(v1-8)](# "ref")
 1. The Shepherd Who **Seeks** the Lost [(v9-15](# "ref")
