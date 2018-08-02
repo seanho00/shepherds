@@ -105,7 +105,12 @@ you have **ruled** them.
 ## Who are the **weak**, sick, injured, **strays**, or lost I have neglected?
 
 ---
-# outline 2
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## The Shepherds [(Ez34)](# "ref")
+1. Shepherds Who Eat the Flock [v1-8](# "ref")
+1. **The Shepherd Who Seeks the Lost** [v9-15](# "ref")
+1. Sheep Who Push Aside the Weak [v16-22](# "ref")
+1. Sheep Who Know the Shepherd [v23-31](# "ref")
 
 >>>
 God takes action
@@ -173,7 +178,12 @@ and I will strengthen the **weak**
   + **rescue**, bring **home**
 
 ---
-# outline 3
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## The Shepherds [(Ez34)](# "ref")
+1. Shepherds Who Eat the Flock [v1-8](# "ref")
+1. The Shepherd Who Seeks the Lost [v9-15](# "ref")
+1. **Sheep Who Push Aside the Weak** [v16-22](# "ref")
+1. Sheep Who Know the Shepherd [v23-31](# "ref")
 
 >>>
 God's judgment
@@ -220,7 +230,12 @@ till you have **scattered** them abroad
 # Q3
 
 ---
-# outline 4
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+## The Shepherds [(Ez34)](# "ref")
+1. Shepherds Who Eat the Flock [v1-8](# "ref")
+1. The Shepherd Who Seeks the Lost [v9-15](# "ref")
+1. Sheep Who Push Aside the Weak [v16-22](# "ref")
+1. **Sheep Who Know the Shepherd** [v23-31](# "ref")
 
 ---
 I will set up over them **one shepherd**, <br>
