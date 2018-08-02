@@ -118,9 +118,26 @@ and put a **stop** to their feeding the sheep.
 [Ezekiel 34:10 (ESV)](# "ref")
 
 >>>
++ as **sheep**: take **comfort**
++ as **shepherds**: take **warning**
 + opposition
 + remove role/right
-+ cf vineyard tenants
++ e.g., parable of **vineyard** (Mk12):
+
+---
+<!-- .slide: <%= bg("unsplash-HNx4QLRgy2k-rain_plant.jpg") %> -->
+What will the **owner** of the vineyard do?
+
+He will come and **destroy** the tenants <br/>
+and give the vineyard to **others**.
+
+[Mark 12:9 (ESV)](# "ref")
+[Mike Kotsch](https://unsplash.com/photos/HNx4QLRgy2k "caption")
+
+>>>
++ kick out **wicked caretakers**
+  + **proud**
+  + believed had **power** over owner
 
 ---
 Behold, I, **I myself** will search for my sheep <br>
@@ -132,6 +149,10 @@ on a day of clouds and thick darkness.
 
 [Ezekiel 34:11,12 (ESV)](# "ref")
 
+>>>
++ God often feels **far away**, absent
++ promise: personally takes **action**
+
 ---
 I will seek the **lost**, <br>
 and I will bring back the **strayed**, <br>
@@ -140,9 +161,16 @@ and I will strengthen the **weak**
 
 [Ezekiel 34:16a (ESV)](# "ref")
 
+>>>
++ what the shepherds **ought** to have done
+
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# What is God's **promise** to me when I am **lost** and weak?
+
+>>>
++ I **myself** will search for my sheep
+  + **rescue**, bring **home**
 
 ---
 # outline 3
