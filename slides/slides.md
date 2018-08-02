@@ -11,22 +11,45 @@
 
 [###](#/outline "secret")
 
+>>>
++ **disappointed** by those who are supposed to **help**?
+  + parents, teachers, authority
+  + lawyers, doctors
+  + mentors, pastors
+
 ---
 
-| 1. **What** must I change? [(identity)](# "ref") | The Adopted *Princess* [(ch16)](# "ref") |
+| 1. What must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
-| 2. **Who** will help me? [(leadership)](# "ref") | The *Shepherds* [(ch34)](# "ref") |
-| 3. **How** do I change? <br>[(God's work)](# "ref") | The *Wanderers* [(ch36)](# "ref") |
-| 4. Am I beyond **hope**? [(new life)](# "ref") | The *Dry Bones* [(ch37)](# "ref") |
-| 5. What if **others** won't change? [(missions)](# "ref") | The *Watchman* [(ch33)](# "ref") |
+| 2. **Who will help me?** | <small>[ch34:](# "ref") *Shepherds* [(leadership)](# "ref")</small> |
+| 3. How do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
+| 4. Am I beyond hope? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
+| 5. If others won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
+
+>>>
++ **leadership**
++ when we are **disappointed** with our leaders
++ when we **ourselves** are in leadership
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## The Shepherds [(Ez34)](# "ref")
-1. Shepherds Who **Eat** the Flock [(v1-8)](# "ref")
-1. The Shepherd Who **Seeks** the Lost [(v9-15](# "ref")
-1. Sheep Who **Push** Aside the Weak [(v16-22)](# "ref")
-1. Sheep Who **Know** the Shepherd [(v23-31)](# "ref")
+1. Shepherds Who **Eat** the Flock [v1-8](# "ref")
+1. The Shepherd Who **Seeks** the Lost [v9-15](# "ref")
+1. Sheep Who **Push** Aside the Weak [v16-22](# "ref")
+1. Sheep Who **Know** the Shepherd [v23-31](# "ref")
+
+>>>
++ two hats we wear: as **sheep** and as **shepherds**
++ as **sheep**:
+  + **disappointed** by bad shepherds
+  + trust in the one **Good** Shepherd
+  + show **grace** to fellow sheep
++ as **shepherds**:
+  + authority **comes** from God
+    + He can **take** it away
+  + sheep don't **belong** to us
+    + our higher **master**
 
 ---
 Ah, **shepherds** of Israel <br>
@@ -42,8 +65,14 @@ but you do not **feed** the sheep.
 [Ezekiel 34:2-3 (ESV)](# "ref")
 
 >>>
-+ luxury/comfort
-+ neglect duty
++ luxury / **comfort**
++ neglect **duty**
++ e.g., **bad**/lazy K12 teachers:
++ enjoy **respect**
+  + e.g., TW 18% interest savings
+  + e.g., BCTF: teaching **honourable**
++ but bad teachers don't **care** for kids
+  + some even **abuse** kids
 
 ---
 The **weak** you have not strengthened, <br>
@@ -52,20 +81,24 @@ the **injured** you have not bound up,
 
 the **strayed** you have not brought back, <br>
 the **lost** you have not sought, <br>
-and with **force** and harshness you have ruled them.
+and with **force** and harshness <br>
+you have **ruled** them.
 
 [Ezekiel 34:4 (ESV)](# "ref")
 
 >>>
-+ omission
-+ comission: force/rule
-
----
-My sheep were **scattered** <br>
-over all the face of the earth, <br>
-with none to **search** or seek for them.
-
-[Ezekiel 34:6 (ESV)](# "ref")
++ as **sheep**: if I've been **weak** / sick / lost
+  + felt **helpless** and alone
+  + **abused** by selfish helpers
+  + &rArr; God **sees**: my real **Shepherd**
++ as **shepherds**: teacher, manager, parent, expert
+  + &rArr; remember my **mandate**:
+  + **weak** / sick / injured: **capability**
+    + suffered **loss** / hurt
+  + **stray** / lost: **culpability**
+    + made bad **decisions**
+  + do not be **harsh**:
+  + I'm not their **ruler**, God is
 
 ---
 <!-- .slide: data-background="white" -->
