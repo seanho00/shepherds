@@ -104,6 +104,9 @@ you have **ruled** them.
 <!-- .slide: data-background="white" -->
 ## Who are the **weak**, sick, injured, **strays**, or lost I have neglected?
 
+>>>
++ and as **sheep**: take comfort in the Good Shepherd
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## The Shepherds [(Ez34)](# "ref")
@@ -186,7 +189,8 @@ and I will strengthen the **weak**
 1. Sheep Who Know the Shepherd [v23-31](# "ref")
 
 >>>
-God's judgment
++ God not only judges **shepherds** (leaders)
++ also between **sheep**
 
 ---
 ... I will strengthen the **weak**, <br>
@@ -201,7 +205,26 @@ between rams and male goats.
 [Ezekiel 34:16b,17 (ESV)](# "ref")
 
 >>>
-not all sheep are the same
++ not all of us sheep are the **victims**
+  + sometimes we are the **abusers**
++ when God **feeds** us,
+  + not only with His **blessings**
+  + also His **judgment**
++ this is what we **need**:
+
+---
+Behold my **servant**, whom I uphold, ...
+
+He will not grow **faint** or be discouraged <br>
+till he has established **justice** in the earth; <br>
+and the coastlands **wait** for his law.
+
+[Isaiah 42:1,4 (ESV)](# "ref")
+
+>>>
++ when we **cry out** for God's justice
++ we ourselves are not **exempt** from it!
++ hear God describe our **selfishness**:
 
 ---
 Is it not enough for you <br>
@@ -217,6 +240,15 @@ with your feet?
 [Ezekiel 34:18 (ESV)](# "ref")
 
 >>>
++ we **enjoy** God's blessings, rescue, rest
+  + but **prevent** others from enjoying grace
++ "**heaven** would be nice, except for other **people**"
++ erect artificial **barriers**: must
+  + attend sm gp 3mo
+  + stop smoking
+  + adopt capitalism
+  + look like **me**
++ implicitly, we believe we are more **deserving**:
 
 ---
 You push with side and **shoulder**, <br>
@@ -225,9 +257,44 @@ till you have **scattered** them abroad
 
 [Ezekiel 34:21 (ESV)](# "ref")
 
+>>>
++ we who are **stronger**: bc God's blessings
+  + stable **home**, no **finance** stress
+  + church **community**, friends
++ should not wield our strength (horn)
+  + against the **weak**:
+  + **mentally** ill
+  + **financially** struggling
+  + outcast / **friendless**
+  + **hurting** / rltn sorrow
+
+---
+But **woe** to you, <br>
+scribes and Pharisees, **hypocrites**!
+
+For you **shut** the kingdom of heaven <br>
+in people's **faces**.
+
+For you neither enter **yourselves** <br>
+nor allow those who **would** enter to go in.
+
+[Matthew 23:13 (ESV)](# "ref")
+
+>>>
++ scribes / Phar in **authority**
+  + **stronger** sheep
++ heavy **burden** of letter of law
++ those who **want** to enter: open, eager
+  + big **stop** sign:
+  + first **change** yourself
+
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Have I **thrust** aside weaker brethren?
+
+>>>
++ do I **notice** them?
++ focused on **own** problems
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
