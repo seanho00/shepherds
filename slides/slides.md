@@ -108,6 +108,10 @@ and I will strengthen the **weak**
 [Ezekiel 34:16a (ESV)](# "ref")
 
 ---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
 # outline 3
 
 >>>
@@ -151,6 +155,10 @@ till you have **scattered** them abroad
 [Ezekiel 34:21 (ESV)](# "ref")
 
 ---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
 # outline 4
 
 ---
@@ -186,6 +194,10 @@ declares the Lord GOD.
 >>>
 + identity
 + relationship
+
+---
+<!-- .slide: data-background="white" -->
+# Q4
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
