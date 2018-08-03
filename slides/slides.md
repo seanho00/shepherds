@@ -368,7 +368,7 @@ declares the Lord GOD.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **desire** to be a **sheep** of God's pasture?
+# Do I **desire** to <br>be a **sheep** of God's pasture?
 
 ---
 <!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> class="empty" -->
