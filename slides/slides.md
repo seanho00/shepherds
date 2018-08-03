@@ -19,6 +19,7 @@
   + mentors, pastors
 
 ---
+<!-- .slide: <%= bg("unsplash-sp-p7uuT0tw-dark_forest.jpg") %> id="series" -->
 
 | 1. What must I change? | <small>[ch16:](# "ref") *Princess* [(identity)](# "ref")</small> |
 | --- | --- |
@@ -26,6 +27,8 @@
 | 3. How do I change? | <small>[ch36:](# "ref") *Wanderers* [(God's work)](# "ref")</small> |
 | 4. Am I beyond hope? | <small>[ch37:](# "ref") *Dry Bones* [(new life)](# "ref")</small> |
 | 5. If others won't change? | <small>[ch33:](# "ref") *Watchman* [(missions)](# "ref")</small> |
+
+[Bad Pyrmont, Germany.  Sebastian Unrau](https://unsplash.com/photos/sp-p7uuT0tw "caption")
 
 >>>
 + **leadership**
@@ -53,6 +56,7 @@
     + our higher **master**
 
 ---
+<!-- .slide: <%= bg("unsplash-x5hFSPUT8uU-sheep.jpg") %> -->
 Ah, **shepherds** of Israel <br>
 who have been feeding **yourselves**! <br>
 Should not shepherds feed the **sheep**?
@@ -64,6 +68,7 @@ you **slaughter** the fat ones, <br>
 but you do not **feed** the sheep.
 
 [Ezekiel 34:2-3 (ESV)](# "ref")
+[Moel Famau, UK.  Rick Barrett](https://unsplash.com/photos/x5hFSPUT8uU "caption")
 
 >>>
 + luxury / **comfort**
@@ -76,6 +81,7 @@ but you do not **feed** the sheep.
   + some even **abuse** kids
 
 ---
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
 The **weak** you have not strengthened, <br>
 the **sick** you have not healed, <br>
 the **injured** you have not bound up,
@@ -86,6 +92,7 @@ and with **force** and harshness <br>
 you have **ruled** them.
 
 [Ezekiel 34:4 (ESV)](# "ref")
+[Joshua Clay](https://unsplash.com/photos/VNjNtdu0yCw "caption")
 
 >>>
 + as **sheep**: if I've been **weak** / sick / lost
@@ -120,11 +127,13 @@ you have **ruled** them.
 God takes action
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Behold, I am **against** the shepherds, <br>
 and I will **require** my sheep at their hand <br>
 and put a **stop** to their feeding the sheep.
 
 [Ezekiel 34:10 (ESV)](# "ref")
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + as **sheep**: take **comfort**
@@ -149,6 +158,7 @@ and give the vineyard to **others**.
   + believed had **power** over owner
 
 ---
+<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 Behold, I, **I myself** will search for my sheep <br>
 and will **seek** them out....
 
@@ -157,12 +167,14 @@ where they have been scattered <br>
 on a day of clouds and thick darkness.
 
 [Ezekiel 34:11,12 (ESV)](# "ref")
+[Shontz Photography](https://unsplash.com/photos/y4v96Sy2ne4 "caption")
 
 >>>
 + God often feels **far away**, absent
 + promise: personally takes **action**
 
 ---
+<!-- .slide: <%= bg("unsplash-55la3cIsJKQ-hug_haiti.jpg") %> -->
 I will seek the **lost**, <br>
 and I will bring back the **strayed**, <br>
 and I will bind up the **injured**, <br>
@@ -194,6 +206,7 @@ and I will strengthen the **weak**
 + also between **sheep**
 
 ---
+<!-- .slide: <%= bg("unsplash-215Fiqh6hRc-sheep.jpg") %> -->
 ... I will strengthen the **weak**, <br>
 and the **fat** and the strong I will destroy.
 
@@ -204,6 +217,7 @@ I will **feed** them in **justice**.
 between rams and male goats.
 
 [Ezekiel 34:16b,17 (ESV)](# "ref")
+[Hay, Australia. Christopher Burns](https://unsplash.com/photos/215Fiqh6hRc "caption")
 
 >>>
 + not all of us sheep are the **victims**
@@ -214,6 +228,7 @@ between rams and male goats.
 + this is what we **need**:
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 Behold my **servant**, whom I uphold, ...
 
 He will not grow **faint** or be discouraged <br>
@@ -221,6 +236,7 @@ till he has established **justice** in the earth; <br>
 and the coastlands **wait** for his law.
 
 [Isaiah 42:1,4 (ESV)](# "ref")
+[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
 + when we **cry out** for God's justice
@@ -228,6 +244,7 @@ and the coastlands **wait** for his law.
 + hear God describe our **selfishness**:
 
 ---
+<!-- .slide: <%= bg("unsplash-24bzOuENxHc-sheep.jpg") %> -->
 Is it not enough for you <br>
 to feed on the **good** pasture,
 
@@ -239,6 +256,7 @@ that you must **muddy** the rest of the water <br>
 with your feet?
 
 [Ezekiel 34:18 (ESV)](# "ref")
+[Ariana Prestes](https://unsplash.com/photos/24bzOuENxHc "caption")
 
 >>>
 + we **enjoy** God's blessings, rescue, rest
@@ -252,6 +270,7 @@ with your feet?
 + implicitly, we believe we are more **deserving**:
 
 ---
+<!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 You push with side and **shoulder**, <br>
 and thrust at all the weak with your **horns**, <br>
 till you have **scattered** them abroad
@@ -270,6 +289,7 @@ till you have **scattered** them abroad
   + **hurting** / rltn sorrow
 
 ---
+<!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
 But **woe** to you, <br>
 scribes and Pharisees, **hypocrites**!
 
@@ -280,6 +300,7 @@ For you neither enter **yourselves** <br>
 nor allow those who **would** enter to go in.
 
 [Matthew 23:13 (ESV)](# "ref")
+[Chefchaouen, Mexico. Randy Tarampi](https://unsplash.com/photos/Y05TMi8ZFHA "caption")
 
 >>>
 + scribes / Phar in **authority**
@@ -306,25 +327,30 @@ nor allow those who **would** enter to go in.
 1. **Sheep Who Know the Shepherd** [v23-31](# "ref")
 
 ---
+<!-- .slide: <%= bg("-wT0iS-TSZM-Anterne_cross.jpg") %> -->
 I will set up over them **one shepherd**, <br>
 my servant **David**, and he shall feed them: <br>
 he shall **feed** them and be their **shepherd**.
 
 [Ezekiel 34:23 (ESV)](# "ref")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
 Christ, Son of David
 
 ---
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 And they shall **know** <br>
 that I am the **LORD their God** with them
 
 [Ezekiel 34:30 (ESV)](# "ref")
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
 recurring theme in Ez
 
 ---
+<!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
 "As for you, **My sheep**, <br>
 the sheep of My pasture,
 
@@ -334,6 +360,7 @@ and I am your **God**,”
 declares the Lord GOD.
 
 [Ezekiel 34:31 (NASB)](# "ref")
+[Great Smoky Mountains, USA. Jordan Whitt](https://unsplash.com/photos/b8rkmfxZjdU "caption")
 
 >>>
 + identity
@@ -341,7 +368,7 @@ declares the Lord GOD.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# Do I **desire** to be a **sheep** of God's pasture?
 
 ---
 <!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> class="empty" -->
