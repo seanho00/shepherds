@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> id="title" -->
 # The Shepherds
 ## Ezekiel 34 (2/5)
+[Highclere Castle, UK](https://unsplash.com/photos/c8ET5XvBwnU "caption")
 
 >>>
 22b leaders, Jn10
@@ -32,7 +33,7 @@
 + when we **ourselves** are in leadership
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> id="outline" -->
 ## The Shepherds [(Ez34)](# "ref")
 1. Shepherds Who **Eat** the Flock [v1-8](# "ref")
 1. The Shepherd Who **Seeks** the Lost [v9-15](# "ref")
@@ -108,7 +109,7 @@ you have **ruled** them.
 + and as **sheep**: take comfort in the Good Shepherd
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> id="outline" -->
 ## The Shepherds [(Ez34)](# "ref")
 1. Shepherds Who Eat the Flock [v1-8](# "ref")
 1. **The Shepherd Who Seeks the Lost** [v9-15](# "ref")
@@ -181,7 +182,7 @@ and I will strengthen the **weak**
   + **rescue**, bring **home**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> id="outline" -->
 ## The Shepherds [(Ez34)](# "ref")
 1. Shepherds Who Eat the Flock [v1-8](# "ref")
 1. The Shepherd Who Seeks the Lost [v9-15](# "ref")
@@ -297,7 +298,7 @@ nor allow those who **would** enter to go in.
 + focused on **own** problems
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> id="outline" -->
 ## The Shepherds [(Ez34)](# "ref")
 1. Shepherds Who Eat the Flock [v1-8](# "ref")
 1. The Shepherd Who Seeks the Lost [v9-15](# "ref")
@@ -343,5 +344,5 @@ declares the Lord GOD.
 # Q4
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> class="empty" -->
 
