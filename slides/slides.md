@@ -110,7 +110,7 @@ you have **ruled** them.
 
 ---
 <!-- .slide: data-background="white" -->
-## Who are the **weak**, sick, injured, **strays**, or lost I have neglected?
+# Who are the **weak**, sick, injured, **strays**, or lost <br> I have neglected?
 
 >>>
 + and as **sheep**: take comfort in the Good Shepherd
@@ -163,7 +163,7 @@ Behold, I, **I myself** will search for my sheep <br>
 and will **seek** them out....
 
 I will **rescue** them from all places <br>
-where they have been scattered <br>
+where they have been **scattered** <br>
 on a day of clouds and thick darkness.
 
 [Ezekiel 34:11,12 (ESV)](# "ref")
@@ -187,7 +187,7 @@ and I will strengthen the **weak**
 
 ---
 <!-- .slide: data-background="white" -->
-# What is God's **promise** to me when I am **lost** and weak?
+# What is God's **promise** to me when I am <br> **lost** and weak?
 
 >>>
 + I **myself** will search for my sheep
@@ -327,7 +327,7 @@ nor allow those who **would** enter to go in.
 1. **Sheep Who Know the Shepherd** [v23-31](# "ref")
 
 ---
-<!-- .slide: <%= bg("-wT0iS-TSZM-Anterne_cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 I will set up over them **one shepherd**, <br>
 my servant **David**, and he shall feed them: <br>
 he shall **feed** them and be their **shepherd**.
