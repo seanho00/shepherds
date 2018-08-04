@@ -3,9 +3,6 @@
 ## Ezekiel 34 (2/5)
 [Highclere Castle, UK](https://unsplash.com/photos/c8ET5XvBwnU "caption")
 
->>>
-22b leaders, Jn10
-
 ---
 <!-- .slide: data-background="white" -->
 # **Who** will help me change?
@@ -337,6 +334,18 @@ he shall **feed** them and be their **shepherd**.
 
 >>>
 Christ, Son of David
+
+---
+I am the **good shepherd**. 
+
+I **know** my **own** and my own know me, <br>
+15 
+just as the **Father** knows me <br>
+and I know the Father; 
+
+and I **lay down my life** for the sheep.
+
+[John 10:14-15 (ESV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
