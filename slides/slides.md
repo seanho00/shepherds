@@ -236,6 +236,7 @@ and the coastlands **wait** for his law.
 [Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
++ **servant**: Christ, the **Anointed** One
 + when we **cry out** for God's justice
 + we ourselves are not **exempt** from it!
 + hear God describe our **selfishness**:
@@ -323,6 +324,13 @@ nor allow those who **would** enter to go in.
 1. Sheep Who Push Aside the Weak [v16-22](# "ref")
 1. **Sheep Who Know the Shepherd** [v23-31](# "ref")
 
+>>>
++ God **himself** takes action:
+  + **heal** our wounds (v9-15)
++ **establish** rltn between
+  + **sheep** + shepherd
+  + **man** + God
+
 ---
 <!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 I will set up over them **one shepherd**, <br>
@@ -333,14 +341,17 @@ he shall **feed** them and be their **shepherd**.
 [Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
-Christ, Son of David
++ King David long **dead**
++ God had **promised** heir to his **throne**
++ **Christ**, Son of David
+  + (blind Bar-Timaeus addresses him)
 
 ---
 <!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 I am the **good shepherd**. 
 
 I **know** my **own** and my own know me, <br>
-15 
+[15](# "ref") 
 just as the **Father** knows me <br>
 and I know the Father; 
 
@@ -348,6 +359,17 @@ and I **lay down my life** for the sheep.
 
 [John 10:14-15 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+
+>>>
++ contrast w/**hired** hand
+  + just a **job**, no **concern**
++ **knows** us: as **close** as Trinity!
++ and **died** for our sins
+  + not bc **weak**, overcome by evil
++ **authority** to lay down
+  + authority to **take up**
++ &rArr; **power** of resurrection!
++ **why** lay down life for us? 
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
@@ -358,7 +380,30 @@ that I am the **LORD their God** with them
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
-recurring theme in Ez
++ recurring theme in Ez
++ that we would **know** who God is
++ not a **religion** we constructed
++ **Creator** (made us)
+  + Rescuer (sought us out)
+  + Redeemer (laid down life)
++ we **know** Him, He **calls** to us:
+
+---
+<!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> -->
+The sheep **hear** his voice, <br>
+and he **calls** his own sheep **by name** <br>
+and leads them out. 
+
+[4](# "ref") 
+When he has brought out all his own, <br>
+he goes **before** them, <br>
+and the sheep **follow** him, <br>
+for they **know** his voice.
+
+[John 10:3-4 (ESV)](# "ref")
+
+>>>
+
 
 ---
 <!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
@@ -379,7 +424,11 @@ declares the Lord GOD.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **desire** to <br>be a **sheep** of God's pasture?
+# Am I a **sheep** of God's pasture?
+
+>>>
++ hear Jesus **calling** to you
++ you **know** His voice
 
 ---
 <!-- .slide: <%= bg("unsplash-c8ET5XvBwnU-flock.jpg") %> class="empty" -->
