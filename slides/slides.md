@@ -336,6 +336,7 @@ he shall **feed** them and be their **shepherd**.
 Christ, Son of David
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 I am the **good shepherd**. 
 
 I **know** my **own** and my own know me, <br>
@@ -346,6 +347,7 @@ and I know the Father;
 and I **lay down my life** for the sheep.
 
 [John 10:14-15 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
