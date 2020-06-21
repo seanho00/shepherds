@@ -1,7 +1,7 @@
 # The Shepherds (2/5)
 ## Ezekiel 34
 
-[![Build status](https://travis-ci.org/sermons/shepherds.svg)](https://travis-ci.org/sermons/shepherds)
+[![Build status](https://api.travis-ci.org/sermons/shepherds.svg)](https://travis-ci.org/github/sermons/shepherds)
 [![Node deps](https://david-dm.org/sermons/shepherds.svg)](https://david-dm.org/sermons/shepherds)
 [![Node devDeps](https://david-dm.org/sermons/shepherds/dev-status.svg)](https://david-dm.org/sermons/shepherds?type=dev)
 
